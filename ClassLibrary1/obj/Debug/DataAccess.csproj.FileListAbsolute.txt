@@ -1,0 +1,6 @@
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary1\bin\Debug\DataAccess.dll
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary1\bin\Debug\DataAccess.pdb
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary1\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary1\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary1\obj\Debug\DataAccess.dll
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary1\obj\Debug\DataAccess.pdb

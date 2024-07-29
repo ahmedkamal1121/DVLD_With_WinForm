@@ -1,0 +1,9 @@
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\bin\Debug\BusinessLayer.dll
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\bin\Debug\BusinessLayer.pdb
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\bin\Debug\DataAccess.dll
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\bin\Debug\DataAccess.pdb
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\obj\Debug\Business.EA331CBA.Up2Date
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\obj\Debug\BusinessLayer.dll
+D:\Files\ABU HADHOD\19-Full Project\Main\ClassLibrary2\obj\Debug\BusinessLayer.pdb
